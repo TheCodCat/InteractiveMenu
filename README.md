@@ -10,4 +10,4 @@
 ## демо ролик интерактивного меню
 
 > демо ролик меню игры
-> ![Movie005.gif](https://i.postimg.cc/y8SvMXtC/Movie005.gif)
+> ![Movie005.gif](/Assets/Images/readMe/Movie003.gif)
