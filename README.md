@@ -8,9 +8,10 @@
 > 
 > ### курсок находтся с левом верхнем углу
 > 
-![картинка меню2](/Assets/Images/readMe/menu2.jpg)
+> ![картинка меню2](/Assets/Images/readMe/menu2.jpg)
 
 ## демо ролик интерактивного меню
 
-![demo](/Assets/Images/readMe/Movie001.gif)
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+<div>
+  <img src="https://i.postimg.cc/y8SvMXtC/Movie005.gif"></img>
+</div>
