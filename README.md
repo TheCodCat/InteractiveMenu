@@ -12,4 +12,5 @@
 
 ## демо ролик интерактивного меню
 
-![видео](/Assets/Images/readMe/Movie001.gif)
+![demo](/Assets/Images/readMe/Movie001.gif)
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
